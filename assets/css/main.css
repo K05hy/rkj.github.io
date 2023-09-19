@@ -1229,11 +1229,11 @@ input, select, textarea {
 	}
 
 	header {
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 		header h2, header h3 {
-			margin: 0 0 0.25em 0;
+			margin: 0 0 0.0 0;
 		}
 
 		header p {
@@ -1252,12 +1252,12 @@ input, select, textarea {
 			}
 
 	footer {
-		margin: 2.5em 0 0 0;
+		margin: 2em 0 0 0;
 	}
 
 	header.major {
 		border-bottom: solid 1px #dbdbdb;
-		margin: 0 0 3em 0;
+		margin: 0 0 2em 0;
 	}
 
 		header.major:after {
@@ -1787,7 +1787,7 @@ input, select, textarea {
 		width: 940px;
 		margin: 0 auto;
 		overflow: hidden;
-		padding: 2em 0 0 0;
+		padding: 1em 0 0 0;
 	}
 
 		#banner h2 {
@@ -1798,7 +1798,7 @@ input, select, textarea {
 			color: rgba(255, 255, 255, 0.75);
 			font-size: 2.35em;
 			font-weight: 600;
-			line-height: 1.3em;
+			line-height: 1em;
 			margin: 0 0 .25em 0;
 		}
 
@@ -1814,7 +1814,7 @@ input, select, textarea {
 				border-top: solid 1px;
 				border-color: #888;
 				border-color: rgba(255, 255, 255, 0.25);
-				margin: 5px 0 .5em 0;
+				margin: 5px 0 .25em 0;
 			}
 
 			#banner h2:after {
@@ -1852,7 +1852,7 @@ input, select, textarea {
 		background: url("images/bg01.png"), url("../../images/header.jpg");
 		background-position: top left, center center;
 		background-size: auto, cover;
-		padding: 2em 0;
+		padding: 1em 0;
 	}
 
 	#main-wrapper {
@@ -1872,7 +1872,7 @@ input, select, textarea {
 	}
 
 	.wrapper {
-		padding: 2.5em 0 2.5em 0;
+		padding: 2em 0 2em 0;
 	}
 
 		.wrapper > .inner {
@@ -1886,7 +1886,7 @@ input, select, textarea {
 			background-color: #fff;
 			background-image: url("images/bg03.png"), url("images/bg04.png"), url("images/bg02.png");
 			background-repeat: no-repeat, no-repeat, repeat;
-			background-size: 100% 15em, 100% 15em, auto auto;
+			background-size: 100% 12em, 100% 12em, auto auto;
 			background-position: top center, bottom center, top left;
 		}
 
@@ -2287,7 +2287,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				padding: 8em 0 4em 0;
+				padding: 6em 0 3em 0;
 			}
 
 				#banner br {
@@ -2392,15 +2392,15 @@ input, select, textarea {
 			}
 
 			#footer-wrapper {
-				padding: 2em 20px 2em 20px;
+				padding: 1em 20px 1em 20px;
 			}
 
 				#footer-wrapper section, #footer-wrapper article {
-					margin-bottom: 2em !important;
+					margin-bottom: 1em !important;
 				}
 
 			.wrapper {
-				padding: 3em 20px 3em 20px;
+				padding: 1em 20px 1em 20px;
 			}
 
 		/* Banner */
