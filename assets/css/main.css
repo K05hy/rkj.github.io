@@ -1453,7 +1453,7 @@ input, select, textarea {
 		font-weight: 800;
 		font-size: 0.95em;
 		letter-spacing: 0.075em;
-		padding: 1em 2em;
+		padding: .75em 1.25em;
 		outline: 0;
 		border: 0;
 		white-space: nowrap;
@@ -1492,8 +1492,8 @@ input, select, textarea {
 		input[type="reset"].medium,
 		button.medium,
 		.button.medium {
-			font-size: 1.25em;
-			padding: 1em 2.25em;
+			font-size: 1em;
+			padding: .75em 1em;
 		}
 
 		input[type="button"].large,
@@ -1501,8 +1501,8 @@ input, select, textarea {
 		input[type="reset"].large,
 		button.large,
 		.button.large {
-			font-size: 1.5em;
-			padding: 1em 2.25em;
+			font-size: 1.25em;
+			padding: .75em 1em;
 		}
 
 		input[type="button"].alt,
@@ -2325,7 +2325,7 @@ input, select, textarea {
 		/* Section/Article */
 
 			section, article {
-				margin-bottom: 3em;
+				margin-bottom: 2em;
 			}
 
 		/* Image */
@@ -2337,10 +2337,10 @@ input, select, textarea {
 		/* Button */
 
 			.button {
-				width: 100%;
-				font-size: 1.1em;
+				width: 50%;
+				font-size: 1em;
 				text-align: center;
-				padding: 1em 0 1em 0;
+				padding: .75em 0 .75em 0;
 				border-radius: 8px;
 			}
 
